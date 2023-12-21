@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+html {
+  scroll-behavior: smooth;
+  transition: margin-right ease-in-out 5s;
+}
+
+:root {
+  /* fonts */
+  --font-content: Content;
+  --font-copperplate-gothic-bold: "Copperplate Gothic Bold";
+  --font-elephant: Elephant;
+  --font-constantia: Constantia;
+  --font-abhaya-libre-medium: "Abhaya Libre Medium";
+  --font-inter: Inter;
+  --font-times-new-roman: "Times New Roman";
+  --font-copperplate-gothic-light: "Copperplate Gothic Light";
+
+  /* font sizes */
+  --font-size-xl: 20px;
+  --font-size-45xl: 64px;
+  --font-size-13xl: 32px;
+  --font-size-29xl: 48px;
+  --font-size-5xl: 24px;
+  --font-size-21xl: 40px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-darkkhaki-100: #b69452;
+  --color-darkkhaki-200: #b59351;
+  --color-black: #000;
+  --polygons: #131f4b;
+  --color-gray: #03072f;
+
+  /* Paddings */
+  --padding-9xs: 4px;
+}
